@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: PAC-MAN clone
 ---
-
+# I am PAC-MAN clone
